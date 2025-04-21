@@ -45,7 +45,7 @@ export default function Chat() {
         </div>
         <Button
           variant="outline"
-          className="text-white border-white hover:bg-white hover:text-black"
+          className="text-zinc-900 border-white hover:bg-zinc-600 hover:text-black"
           
         >
           Sign In
